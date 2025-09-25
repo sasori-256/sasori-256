@@ -1,4 +1,10 @@
-## Hi there 👋
+# Good morning! I’m Yomotsuhirasaka(Mutsumin).
+
+A university student learning secure programming.
+
+## 😎 About Me
+
+![Tech Stack](https://skillicons.dev/icons?i=arch,c,js,typescript,tailwind,react,nodejs,pnpm,py,fastapi,docker,neovim,notion,obsidian,windows)
 
 <!--
 **sasori-256/sasori-256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
