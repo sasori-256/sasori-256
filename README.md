@@ -28,7 +28,7 @@ A university student learning secure programming.
 ### 📱  **Mobile Development**
 <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,androidstudio" />
 
-### ☁️  **Backend as a Service (BaaS)**
+### ☁️  **Backend as a Service**
 <img src="https://skillicons.dev/icons?i=supabase" />
 
 ### 🔧  **Development Environment**
@@ -44,7 +44,7 @@ A university student learning secure programming.
 <img src="https://skillicons.dev/icons?i=figma,notion,obsidian" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=fastapi,py,lua,c,md,css" />
+<img src="https://skillicons.dev/icons?i=fastapi,py,lua,c,css" />
 
 </td>
 </tr>
